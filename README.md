@@ -1,3 +1,6 @@
+`mv env.example .env.local`
+
+
 <div align="center">
   <br />
     <a href="https://youtu.be/lie0cr3wESQ" target="_blank">
